@@ -25,7 +25,7 @@ if (empty($_SESSION['username'])) { ?>
                     <div class="card-body">
                         <!-- Error Messages -->
                         <div class="alert" id="error-message" style="display:none;"></div>
-                        <form action="login.php">
+                        <form action="../src/login.php">
                             <div class="form-group">
                                 <label for="username">Username</label>
                                 <input type="text" class="form-control" name="username" id="username" placeholder="Enter your username">
