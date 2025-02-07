@@ -1,2 +1,2 @@
 .idea
-./auth.php
+./config/auth.php
