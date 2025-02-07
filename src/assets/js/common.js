@@ -4,7 +4,7 @@ $(document).ready(function() {
 
         $.ajax({
             type: "POST",
-            url: "login.php",
+            url: "blahblahblah.php",
             data: {
                 username: $("#username").val(),
                 password: $("#password").val()

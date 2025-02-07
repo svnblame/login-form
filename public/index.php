@@ -43,6 +43,6 @@ if (empty($_SESSION['username'])) { ?>
     </div>
 <?php } ?>
 <srcipt src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></srcipt>
-<script src="common.js"></script>
+<script src="../src/assets/js/common.js"></script>
 </body>
 </html>
